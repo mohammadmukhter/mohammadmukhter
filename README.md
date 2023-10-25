@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MD MUKHTER HOSSAN</h1>
 <h3 align="center">A passionate FullStack developer from Bangladesh</h3>
-<img align=“right” width=“400” src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt=“coding />
+<img align=“right” width=“200” src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt=“coding />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadmukhter&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadmukhter" /> </p>
 
