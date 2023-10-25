@@ -1,4 +1,4 @@
-[![MasterHead](“https://soyhorizonte.com/wp-content/uploads/2020/10/JS-by-SoyHorizonte.gif”)]
+[![MasterHead](“https://soyhorizonte.com/wp-content/uploads/2020/10/JS-by-SoyHorizonte.gif”)]("https://mohammadmukhter.io")
 
 <h1 align="center">Hi 👋, I'm MD MUKHTER HOSSAN</h1>
 <h3 align="center">A passionate FullStack developer from Bangladesh</h3>
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React js, MERN and Laravel-PHP**
 
-- 📫 How to reach me **https://www.linkedin.com/in/md-mukhter-h-95a180191/**
+- 📫 How to reach me **mohammadmukhter@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ddHfYkjkVrtzQjWhaLEjJCr95hV6Sp6V/view](https://drive.google.com/file/d/1ddHfYkjkVrtzQjWhaLEjJCr95hV6Sp6V/view)
 
