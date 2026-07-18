@@ -26,6 +26,17 @@ I am a Software Engineering Lead based in Bangladesh, specializing in building s
 
 *Note: I also utilize tools like the Xero app and have foundational knowledge in Flutter.*
 
+### 🏢 Professional Experience
+
+**Software Engineering Lead | Omega Solution LTD**
+*   **Architecture & R&D:** Architected scalable SaaS solutions featuring custom Accounting, Compliance/Risk Management (GRC), Internal Audit, and Hotel Booking modules.
+*   **Backend Engineering:** Developed secure, high-performance microservices and REST APIs integrating AI-driven logic and automated IVR (Twilio/Retell).
+*   **Technical Leadership:** Led agile development teams, bridging business requirements with technical execution for efficient project delivery.
+
+**Software Quality & Automation | TMSS ICT LTD**
+*   **System Reliability:** Ensured data accuracy and system stability through rigorous testing and feature verification.
+*   **Process Optimization:** Streamlined branch operations by implementing automation to significantly reduce manual workloads.
+
 ### 📫 Connect With Me
 <p align="left">
   <a href="mailto:mohammadmukhter@gmail.com"><b>mohammadmukhter@gmail.com</b></a><br><br>
